@@ -27,3 +27,9 @@ git push -u origin main
 
 **Ключевые выводы(принцип работы)**
 git add → git commit → git push
+
+
+
+![IMAGE 2026-02-14 17:22:00](https://github.com/user-attachments/assets/7218cb73-ad8f-4797-b499-46fe96223fba)
+![IMAGE 2026-02-14 17:21:58](https://github.com/user-attachments/assets/0cc57ace-37bd-4aaf-9d43-8de9765b5256)
+![IMAGE 2026-02-14 17:21:54](https://github.com/user-attachments/assets/124713ca-99f4-494c-b4c6-d88b541975cf)
